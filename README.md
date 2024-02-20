@@ -1,2 +1,2 @@
 # PulmonaryMD
-A novel self-supervised deep learning framework leveraging CT scan data for pulmonary embolism diagnosis.
+A novel self-supervised deep learning framework for pulmonary embolism diagnosis via representation learning in computed tomography.
